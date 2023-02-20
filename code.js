@@ -35,7 +35,7 @@ function getRate() {
 //       let result = document.getElementById("exRate");
 //       result.innerHTML = "Курс: " + rate + "₴ = 1 " + Code;
 //     })
-//     .catch(error => console.log(error));
+//     
 // }
     
   
